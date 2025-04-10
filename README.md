@@ -30,16 +30,7 @@ To start the development server, use the following command:
 npm run dev
 ```
 
-This will start the application and you can view it in your browser at `http://localhost:3000` (or the port specified in the terminal).
-
-## Building for Production
-
-To create a production build of the application, run:
-```bash
-npm run build
-```
-
-This will generate a `dist` folder containing the optimized files for deployment.
+This will start the application and you can view it in your browser at `http://localhost:5173` (or the port specified in the terminal).
 
 ## Additional Information
 
