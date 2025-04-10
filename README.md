@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/parsa138785/Bonmano-Page.git
    cd your-repo-name
    ```
 
@@ -30,16 +30,7 @@ To start the development server, use the following command:
 npm run dev
 ```
 
-This will start the application and you can view it in your browser at `http://localhost:3000` (or the port specified in the terminal).
-
-## Building for Production
-
-To create a production build of the application, run:
-```bash
-npm run build
-```
-
-This will generate a `dist` folder containing the optimized files for deployment.
+This will start the application and you can view it in your browser at `http://localhost:5173` (or the port specified in the terminal).
 
 ## Additional Information
 
